@@ -1,0 +1,3 @@
+<?php
+echo "<!doctype html> <html> <head> <title>Vaczoway Solutions, Inc</title> <style> body { background: #efefef; color: #333; } a, a:visited, a:active, a:hover { color: #904040; } .container { background: #fff; border: 0.5em solid #904040; border-radius: 0.5em; margin: 2em auto; padding: 2em; width: 800px; } </style> </head> <body> <div class='container'> <strong>Vaczoway Solutions, Inc</strong> makers of <ul> <li><a href='http://oilfieldintelligence.com/'>Oilfield Intelligence - oil and gas service company reviews</a></li> <li><a href='https://swiftgive.com/'>Swiftgive - Free, mobile fundraising and tipping</a></li> <li>and other fine products</a></li> </ul> </div> </body> </html>"
+?>
